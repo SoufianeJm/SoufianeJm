@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-Hi, I’m a computer science graduate and human rights activist, currently working on building a career in machine learning and AI for social good.
+Hi, I’m a Junior Software Engineer and a human rights activist, currently working on building a career in machine learning and AI for social good.
 
 ## 💼 ML Projects
 
