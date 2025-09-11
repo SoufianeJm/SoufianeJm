@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/soufiane-joumal/">Follow me on LinkedIn</a> • 
-    <a href="https://joumalsoufiane.me/">Portfolio</a> 
+    <a href="https://soufianejoumal.me/">Portfolio</a> 
   </p>
 </div>
 <br/>
