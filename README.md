@@ -6,13 +6,10 @@
 </div>
 <br/>
 
-Hi, I’m a Junior Software Engineer and a human rights activist, currently working on building a career in machine learning and AI for social good.
+Hi, I’m a Junior Software Engineer and a human rights activist, currently working on [**Mooja**](https://github.com/MoojaLabs)
+## 💼 Projects
 
-## 💼 ML Projects
-
-* [**Itri ai**](): (under construction)
-
-## 🤗 Other projects
+* [**Mooja**](https://github.com/MoojaLabs)
 
 * [**TrendAi**](https://github.com/SoufianeJm/trend_ai): An AI-enhanced mobile application for SNRT (Société Nationale de Radiodiffusion et de Télévision), built with Flutter. This app provides personalized news, live content, and intelligent recommendations powered by machine learning.
 
