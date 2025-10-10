@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-Hi, I’m a Junior Software Engineer and a human rights activist, currently working on [**Mooja**](https://github.com/MoojaLabs)
+Hi, I’m a Junior Software Engineer and a human rights activist, currently working on my app [**Mooja**](https://github.com/MoojaLabs) and a volunteer at [**Tech4Palestine**](https://github.com/TechForPalestine).
 ## 💼 Projects
 
 * [**Mooja**](https://github.com/MoojaLabs)
